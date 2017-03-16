@@ -1,5 +1,7 @@
 #Onboard Scripts
+
 Run ```bash env_setup.sh```
+
 If you face some errors , open the file using text editor and type commands one by one in terminal.
 
 Dependencies: mav-proxy, drone-kit, tower-web
